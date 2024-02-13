@@ -1,0 +1,4 @@
+# .gitignore file
+
+*.txt
+node_modules
